@@ -113,6 +113,7 @@ export default Counter
 
 # most important note
 
+# note 1
 ```js
 function Comp(){
     // if we trynna use varible from context api inside Comp itself this is not possible
@@ -132,3 +133,6 @@ function Comp(){
     )
 }
 ```
+# note2
+
+- for creator and provider use use names starting from Capital letters (this shit costed me 1hr)
