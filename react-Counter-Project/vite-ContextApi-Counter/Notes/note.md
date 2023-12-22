@@ -9,12 +9,12 @@
 
 # good practice :
 - good practices are that we create Context folder inside src
-`
+```
     |-src
         |-Context
         |-Components
 
-`
+```
 - we create suppose CounterContext.js [this file is creator]
 - now we also use Provider [this file is like where we define our variables that we gonna share]
 - so these two files shud export the creator and provider 
