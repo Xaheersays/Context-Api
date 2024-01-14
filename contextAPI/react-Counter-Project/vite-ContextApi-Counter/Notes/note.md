@@ -131,4 +131,7 @@ function Comp(){
        </CounterContextProvider>
     )
 }
+
+- context api doesnt solve problem of rerendering of other comps
+- state management library helps e.g redux,recoil
 ```
